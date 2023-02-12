@@ -1,0 +1,15 @@
+div.ly{
+    margin-top: 50%;
+    border-radius: 12px;
+    
+}
+body{
+    background-color: bisque;
+}
+button.btn{
+    float: right;
+}
+img.nav{
+    width: 30px;
+    height: 30px;
+}
